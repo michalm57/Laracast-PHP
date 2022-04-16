@@ -1,8 +1,10 @@
 <?php
+require 'core/bootstrap.php';
 
-$database = require 'core/bootstrap.php';
-
-die(var_dump($app));
+// echo '<pre>';
+// var_dump($_SERVER['REQUEST_URI']);
+// echo '</pre>';
+// die();
 
 require Router::load('routes.php')
     ->direct(Request::uri());

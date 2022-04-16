@@ -14,8 +14,9 @@
 <body>
     <nav>
         <ul>
-            <li><a href = "about.php">About Page</a></li>
-            <li><a href = "contact.php">Contact Page</a></li>
+            <li><a href = "about">About</a></li>
+            <li><a href = "contact">Contact</a></li>
+            <li><a href = "about/culture">About our Culture</a></li>
         </ul>
     </nav>
 
