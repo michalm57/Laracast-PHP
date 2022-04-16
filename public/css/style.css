@@ -6,6 +6,7 @@ header {
 
 body {
     background: #999;
+    text-align: center;
 }
 
 nav {
@@ -16,5 +17,4 @@ nav {
 .nav-li {
     display: inline;
     text-align: center;
-
 }
