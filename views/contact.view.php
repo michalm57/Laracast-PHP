@@ -1,18 +1,4 @@
-
-<!DOCTYE HTML>
-<html lang="eng">
-<head>
-    <meta charset="UTF-8">
-    <title>Contact</title>
-    <style>
-        header{
-            background: #e3e3e3;
-            padding: 2em;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-</body>
-
-</html>
+<title>Contact</title>
+<header><h1>Contact</h1></header>
+<?php require 'partials/head.php';?>
+<?php require 'partials/footer.php';

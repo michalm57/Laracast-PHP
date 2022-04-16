@@ -1,19 +1,4 @@
-
-<!DOCTYE HTML>
-<html lang="eng">
-<head>
-    <meta charset="UTF-8">
-    <title>About Us</title>
-    <style>
-        header{
-            background: #e3e3e3;
-            padding: 2em;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    About
-</body>
-
-</html>
+<title>About</title>
+<header><h1>About</h1></header>
+<?php require 'partials/head.php';?>
+<?php require 'partials/footer.php';
